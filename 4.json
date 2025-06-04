@@ -1,0 +1,276 @@
+{
+  "action_process_instance_id": null,
+  "actor_process_instance_id": [
+    "AduNHwtqlREAACGgAAAAAA=="
+  ],
+  "agent_os_sub_type": "Windows Server 2025 [10.0 (Build 26100)]",
+  "fw_app_category": null,
+  "fw_app_id": [
+    "ip,icmp"
+  ],
+  "fw_app_subcategory": null,
+  "fw_app_technology": null,
+  "initial_cloud_providers": null,
+  "causality_actor_process_command_line": [
+    "\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" "
+  ],
+  "causality_actor_process_image_md5": [
+    "909a2eec5534f01dff87b7d47e57bff7"
+  ],
+  "causality_actor_process_image_name": [
+    "powershell.exe"
+  ],
+  "causality_actor_process_image_path": [
+    "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+  ],
+  "causality_actor_process_image_sha256": [
+    "d3b4b97c2bf97d70e5655ff4c4ca1d8cef9ded51685cfd764247cfda98ee68df"
+  ],
+  "causality_actor_process_signature_status": [
+    "Signed"
+  ],
+  "causality_actor_process_signature_vendor": [
+    "Microsoft Corporation"
+  ],
+  "causality_actor_causality_id": [
+    "AduNGbjaMWYAAAzEAAAAAA=="
+  ],
+  "identity_sub_type": null,
+  "identity_type": [
+    "unknown"
+  ],
+  "operation_name": null,
+  "project": null,
+  "cloud_provider": null,
+  "referenced_resource": null,
+  "resource_sub_type": null,
+  "resource_type": null,
+  "cluster_name": null,
+  "container_id": null,
+  "contains_featured_host": [
+    "NO"
+  ],
+  "contains_featured_ip": [
+    "NO"
+  ],
+  "contains_featured_user": [
+    "NO"
+  ],
+  "action_country": [
+    "UNKNOWN"
+  ],
+  "fw_interface_to": null,
+  "dns_query_name": null,
+  "agent_device_domain": null,
+  "fw_email_recipient": null,
+  "fw_email_sender": null,
+  "fw_email_subject": null,
+  "event_type": [
+    "Network Connections"
+  ],
+  "is_whitelisted": false,
+  "action_file_macro_sha256": null,
+  "action_file_md5": null,
+  "action_file_name": null,
+  "action_file_path": null,
+  "action_file_sha256": null,
+  "fw_device_name": null,
+  "fw_rule_id": null,
+  "fw_rule": null,
+  "fw_serial_number": null,
+  "agent_fqdn": null,
+  "agent_os_type": "Windows",
+  "image_name": null,
+  "actor_process_image_name": [
+    "PING.EXE"
+  ],
+  "actor_process_command_line": [
+    "ping  9.9.9.9"
+  ],
+  "actor_process_image_md5": [
+    "d68f13893470bf6ab433516a45f2f690"
+  ],
+  "actor_process_image_path": [
+    "C:\\Windows\\System32\\PING.EXE"
+  ],
+  "actor_process_os_pid": [
+    8608
+  ],
+  "actor_process_image_sha256": [
+    "96f2abac2542f4cd59628d14af1f1935febfa56c675c3430e108b5465ebc823e"
+  ],
+  "actor_process_signature_status": [
+    "Signed"
+  ],
+  "actor_process_signature_vendor": [
+    "Microsoft Corporation"
+  ],
+  "actor_thread_thread_id": [
+    8488
+  ],
+  "fw_is_phishing": [
+    "N/A"
+  ],
+  "action_local_ip": [
+    "172.30.2.130"
+  ],
+  "action_local_port": [
+    0
+  ],
+  "fw_misc": null,
+  "mitre_tactic_id_and_name": null,
+  "mitre_technique_id_and_name": null,
+  "module_id": null,
+  "fw_vsys": null,
+  "os_actor_process_command_line": [
+    "ping  9.9.9.9"
+  ],
+  "os_actor_thread_thread_id": [
+    8488
+  ],
+  "os_actor_process_image_name": [
+    "PING.EXE"
+  ],
+  "os_actor_process_os_pid": [
+    8608
+  ],
+  "os_actor_process_image_sha256": [
+    "96f2abac2542f4cd59628d14af1f1935febfa56c675c3430e108b5465ebc823e"
+  ],
+  "os_actor_process_signature_status": [
+    "Signed"
+  ],
+  "os_actor_process_signature_vendor": [
+    "Microsoft Corporation"
+  ],
+  "os_actor_effective_username": null,
+  "action_process_signature_status": [
+    "N/A"
+  ],
+  "action_process_signature_vendor": null,
+  "action_registry_data": null,
+  "action_registry_full_key": null,
+  "action_external_hostname": null,
+  "action_remote_ip": [
+    "9.9.9.9"
+  ],
+  "action_remote_port": [
+    0
+  ],
+  "matching_service_rule_id": "1",
+  "fw_interface_from": null,
+  "starred": false,
+  "action_process_image_command_line": null,
+  "action_process_image_name": null,
+  "action_process_image_sha256": null,
+  "fw_url_domain": null,
+  "user_agent": null,
+  "fw_xff": null,
+  "alert_domain": "DOMAIN_SECURITY",
+  "external_id": "4098a564-f111-44a6-a0b0-838e81041182",
+  "severity": "high",
+  "matching_status": "MATCHED",
+  "end_match_attempt_ts": null,
+  "local_insert_ts": 1741104310455,
+  "last_modified_ts": null,
+  "bioc_indicator": null,
+  "attempt_counter": 0,
+  "bioc_category_enum_key": "IP",
+  "case_id": 1,
+  "deduplicate_tokens": null,
+  "filter_rule_id": null,
+  "agent_version": "8.7.0.7735",
+  "agent_ip_addresses_v6": null,
+  "agent_data_collection_status": null,
+  "agent_is_vdi": false,
+  "agent_install_type": "STANDARD",
+  "agent_host_boot_time": [
+    1741097260399
+  ],
+  "event_sub_type": [
+    18
+  ],
+  "association_strength": [
+    50
+  ],
+  "dst_association_strength": [
+    10
+  ],
+  "story_id": [
+    "MTA0ODkwMDc5MzM3Mjg3MjM3Ng=="
+  ],
+  "event_id": [
+    "MTA0ODkwMDc5MzM3Mjg3MjM3Ng=="
+  ],
+  "event_timestamp": [
+    1741104243691
+  ],
+  "actor_process_causality_id": [
+    "AduNGbjaMWYAAAzEAAAAAA=="
+  ],
+  "actor_causality_id": [
+    "AduNGbjaMWYAAAzEAAAAAA=="
+  ],
+  "causality_actor_process_execution_time": [
+    1741101955412
+  ],
+  "action_registry_key_name": null,
+  "action_registry_value_name": null,
+  "action_local_ip_v6": null,
+  "action_remote_ip_v6": null,
+  "action_process_causality_id": null,
+  "os_actor_process_instance_id": [
+    "AduNHwtqlREAACGgAAAAAA=="
+  ],
+  "os_actor_process_image_path": [
+    "C:\\Windows\\System32\\PING.EXE"
+  ],
+  "os_actor_process_causality_id": [
+    "AduNGbjaMWYAAAzEAAAAAA=="
+  ],
+  "os_actor_causality_id": null,
+  "dst_agent_id": [
+    "9.9.9.9"
+  ],
+  "dst_causality_actor_process_execution_time": null,
+  "dst_action_external_hostname": null,
+  "dst_action_country": [
+    "US"
+  ],
+  "dst_action_external_port": null,
+  "is_pcap": false,
+  "image_id": null,
+  "container_name": null,
+  "namespace": null,
+  "alert_type": "Unclassified",
+  "resolution_status": "STATUS_010_NEW",
+  "resolution_comment": null,
+  "dynamic_fields": null,
+  "tags": [
+    "DS:PANW/XDR Agent",
+    "DOM:Security"
+  ],
+  "malicious_urls": null,
+  "alert_id": "4",
+  "detection_timestamp": 1741104243691,
+  "name": "IOC (9.9.9.9)",
+  "category": "IP",
+  "endpoint_id": "03544471722340dd99cb5ac21ec6e8b5",
+  "description": "IOC ( IP = 9.9.9.9 )",
+  "host_ip": [
+    "172.30.2.130",
+    "172.30.1.133"
+  ],
+  "host_name": "EC2AMAZ-CQMLOOA",
+  "action": "DETECTED",
+  "source": "XDR IOC",
+  "original_tags": [
+    "DS:PANW/XDR Agent",
+    "DOM:Security"
+  ],
+  "user_name": [
+    "EC2AMAZ-CQMLOOA\\Administrator"
+  ],
+  "mac_addresses": null,
+  "action_pretty": "Detected"
+}
